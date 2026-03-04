@@ -1,0 +1,80 @@
+/* Color Palette
+#0A192F - Navy
+#112240 - Dark Blue
+#64FFDA - Teal Accent
+#CCD6F6 - Light Text
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: #0A192F;
+    color: #CCD6F6;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #64FFDA;
+}
+
+h3 {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+/* Header & Footer
+------------------------------------*/
+.header {
+    background-color: #112240;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #112240;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer a {
+    color: #64FFDA;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Work Experience
+------------------------------------*/
+.work {
+    padding: 40px 20px;
+    background-color: #0A192F;
+}
+
+/* Education
+------------------------------------*/
+.education {
+    padding: 40px 20px;
+    background-color: #112240;
+}
