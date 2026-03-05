@@ -77,7 +77,7 @@ h3 {
 }
 
 .profile-img {
-    width: 300px;
+    width: 250px; /* Adjusted size to fit the screenshot */
     border-radius: 50%;
 }
 
